@@ -1,0 +1,4 @@
+pres\haimi\springboot\dubbo\CityDubboService.class
+pres\haimi\springboot\ServerApplication.class
+pres\haimi\springboot\dubbo\impl\CityDubboServiceImpl.class
+pres\haimi\springboot\domain\City.class

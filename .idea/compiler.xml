@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-dubbo-client" />
+        <module name="springboot-dubbo-server" />
+        <module name="springboot-freemarker" />
+        <module name="springboot-helloworld" />
+        <module name="springboot-mybatis" />
+        <module name="springboot-mybatis-annotation" />
+        <module name="springboot-mybatis-multi-datasource" />
+        <module name="springboot-mybatis-redis" />
+        <module name="springboot-properties" />
+        <module name="springboot-restful" />
+        <module name="springboot-validation-over-json" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot" target="1.5" />
+      <module name="springboot-dubbo-client" target="1.6" />
+      <module name="springboot-dubbo-server" target="1.6" />
+      <module name="springboot-freemarker" target="1.6" />
+      <module name="springboot-helloworld" target="1.6" />
+      <module name="springboot-mybatis" target="1.6" />
+      <module name="springboot-mybatis-annotation" target="1.6" />
+      <module name="springboot-mybatis-multi-datasource" target="1.6" />
+      <module name="springboot-mybatis-mutil-datasource" target="1.6" />
+      <module name="springboot-mybatis-redis" target="1.6" />
+      <module name="springboot-properties" target="1.6" />
+      <module name="springboot-restful" target="1.6" />
+      <module name="springboot-validation-over-json" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot-dubbo-client" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-dubbo-server" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-freemarker" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-helloworld" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-mybatis" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-mybatis-multi-datasource" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-mybatis-mutil-datasource" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-mybatis-redis" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-properties" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-restful" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-validation-over-json" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springboot-mybatis-mutil-datasource/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

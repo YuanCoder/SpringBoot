@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-helloworld:war">
+    <output-path>$PROJECT_DIR$/springboot-helloworld/target</output-path>
+    <root id="archive" name="springboot-helloworld.war">
+      <element id="artifact" artifact-name="springboot-helloworld:war exploded" />
+    </root>
+  </artifact>
+</component>
